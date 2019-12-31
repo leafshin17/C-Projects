@@ -1,0 +1,14 @@
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\bin\Debug\Random Boss Task Assign Bot.exe.config
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\bin\Debug\Random Boss Task Assign Bot.exe
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\bin\Debug\Random Boss Task Assign Bot.pdb
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot.csprojAssemblyReference.cache
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\MainWindow.g.cs
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\App.g.cs
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot_MarkupCompile.cache
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot_MarkupCompile.lref
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\MainWindow.baml
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot.g.resources
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random_Boss_Task_Assign_Bot.Properties.Resources.resources
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot.csproj.GenerateResource.cache
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot.exe
+C:\Users\vedan\source\repos\Learning C#\Runescape Boss Selector App\Random Boss Task Assign Bot\Random Boss Task Assign Bot\obj\Debug\Random Boss Task Assign Bot.pdb
